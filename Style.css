@@ -1,0 +1,32 @@
+.divsong{
+    float: top;
+}
+
+#song {
+    width: 200px;
+    color: #010101;
+    }
+
+   
+
+#header{
+    font-size: 40px;
+    background-color:white ;
+    width:100%;
+    margin:0px;
+
+}
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px dashed #dbab4c;
+    margin-top: 200px;
+}
+.note{
+    padding: 10px;
+    font-size: 15px;
+    color: #dbab4c;
+    border-radius: 20px;
+}
